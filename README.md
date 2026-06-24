@@ -33,7 +33,7 @@ Responsive Dashboard: Designed for both desktop and mobile, ensuring you can log
 
 💰 Subscription & Trial
 
-SeeSession is a premium service designed to provide a professional-grade experience for dedicated enthusiasts.
+SeeSession will be a premium service designed to provide a professional-grade experience for dedicated enthusiasts.
 
 14-Day Free Trial: Start your journey with full access to all features completely free for 14 days. No data is lost when the trial ends—everything you log remains safely in your account.
 
